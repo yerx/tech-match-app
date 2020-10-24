@@ -1,19 +1,19 @@
-# Example app with Storybook
+# Creating a Tech Matching Tool
 
-This example shows a default set up of Storybook. Also included in the example is a custom component included in both Storybook and the Next.js application.
+### Tech Stack
 
-### TypeScript
+- React
+- NextJS
+- Storybook
+- Jest
+- TypeScript and JavaScript
 
-As of v6.0, Storybook has built-in TypeScript support, so no configuration is needed. If you want to customize the default configuration, refer to the [TypeScript docs](https://storybook.js.org/docs/react/configure/typescript).
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## How to Use
 
 ```bash
-npx create-next-app --example with-storybook with-storybook-app
+npm run dev
 # or
-yarn create next-app --example with-storybook with-storybook-app
+yarn dev
 ```
 
 ## Run Storybook
