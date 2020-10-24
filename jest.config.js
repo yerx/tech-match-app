@@ -4,6 +4,7 @@ module.exports = {
     "!**/*.d.ts",
     "!**/node_modules/**",
   ],
+  coverageReporters: ["html"],
   setupFilesAfterEnv: ["<rootDir>/setupTests.js"],
   testPathIgnorePatterns: ["/node_modules/", "/.next/"],
   transform: {
