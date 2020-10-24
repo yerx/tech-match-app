@@ -20,6 +20,7 @@
     "@storybook/addon-links": "6.0.5",
     "@storybook/addons": "6.0.5",
     "@storybook/react": "6.0.5",
-    "babel-loader": "^8.0.5"
+    "babel-loader": "^8.0.5",
+    "typescript": "^4.0.3"
   }
 }
