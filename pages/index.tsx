@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
-import Link from 'next/link'
+// import Link from 'next/link'
 import IndexPage from "../components/index";
 
 export default function Home() {
